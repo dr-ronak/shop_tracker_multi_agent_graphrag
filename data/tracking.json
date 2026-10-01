@@ -1,0 +1,262 @@
+{
+  "coffee shop|Pune, India": [
+    {
+      "ts": "2026-10-01 11:49:26",
+      "shops": [
+        {
+          "place_id": "ChIJHQkrD1jAwjsReTIzCjxLghc",
+          "title": "Vohuman Cafe",
+          "rating": 4.3,
+          "reviews": 15298,
+          "open_state": "Open \u00b7 Closes 7:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJKYWoizq_wjsRPbowDxgloOo",
+          "title": "Bookavibe - Book Cafe and Co-working space",
+          "rating": 4.7,
+          "reviews": 863,
+          "open_state": "Open \u00b7 Closes 10:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJRecQlI6_wjsRdAd2NBK8S1c",
+          "title": "Cafe Kathaa",
+          "rating": 4.2,
+          "reviews": 5677,
+          "open_state": "Open \u00b7 Closes 10:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJW4V4LV-_wjsRFAHzaV4amSw",
+          "title": "CAFE BLACK CAT & WOLF",
+          "rating": 4.7,
+          "reviews": 473,
+          "open_state": "Open \u00b7 Closes 12\u202fAM"
+        },
+        {
+          "place_id": "ChIJSagtExm_wjsRoW-EnzD4pGY",
+          "title": "Coffee Nation - Law College Road",
+          "rating": 4.3,
+          "reviews": 2896,
+          "open_state": "Open \u00b7 Closes 11:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJQ9t-qz7BwjsRka_lEL3Vhsk",
+          "title": "729 Grams Coffee Roasters",
+          "rating": 4.5,
+          "reviews": 842,
+          "open_state": "Open \u00b7 Closes 10\u202fPM"
+        }
+      ]
+    },
+    {
+      "ts": "2026-10-01 11:59:49",
+      "shops": [
+        {
+          "place_id": "ChIJKYWoizq_wjsRPbowDxgloOo",
+          "title": "Bookavibe - Book Cafe and Co-working space",
+          "rating": 4.7,
+          "reviews": 863,
+          "open_state": "Open \u00b7 Closes 10:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJSagtExm_wjsRoW-EnzD4pGY",
+          "title": "Coffee Nation - Law College Road",
+          "rating": 4.3,
+          "reviews": 2896,
+          "open_state": "Open \u00b7 Closes 11:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJW4V4LV-_wjsRFAHzaV4amSw",
+          "title": "CAFE BLACK CAT & WOLF",
+          "rating": 4.7,
+          "reviews": 473,
+          "open_state": "Open \u00b7 Closes 12\u202fAM"
+        },
+        {
+          "place_id": "ChIJHQkrD1jAwjsReTIzCjxLghc",
+          "title": "Vohuman Cafe",
+          "rating": 4.3,
+          "reviews": 15298,
+          "open_state": "Open \u00b7 Closes 7:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJzT82vY3rwjsR5ZKQPoeQyGo",
+          "title": "Nothing Before Coffee - NIBM, Pune",
+          "rating": 4.8,
+          "reviews": 423,
+          "open_state": "Open \u00b7 Closes 11:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJQ9t-qz7BwjsRka_lEL3Vhsk",
+          "title": "729 Grams Coffee Roasters",
+          "rating": 4.5,
+          "reviews": 842,
+          "open_state": "Open \u00b7 Closes 10\u202fPM"
+        }
+      ]
+    }
+  ],
+  "irani cafe|Pune, India": [
+    {
+      "ts": "2026-10-01 11:52:20",
+      "shops": [
+        {
+          "place_id": "ChIJBTQ4K0fBwjsRdJup7GCN8Bg",
+          "title": "Irani Cafe - Viman Nagar",
+          "rating": 4.2,
+          "reviews": 8631,
+          "open_state": "Open \u00b7 Closes 11\u202fPM"
+        },
+        {
+          "place_id": "ChIJm9oN4r2_wjsRzhm9mceZnQk",
+          "title": "Irani Cafe",
+          "rating": 4.2,
+          "reviews": 7609,
+          "open_state": "Open \u00b7 Closes 12\u202fAM"
+        },
+        {
+          "place_id": "ChIJkQ47h5vBwjsROh650jXhEkk",
+          "title": "Irani Cafe - Kalyani Nagar",
+          "rating": 4.2,
+          "reviews": 7580,
+          "open_state": "Open \u00b7 Closes 11:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJ2e7ofx7BwjsRLoso6-5ufV0",
+          "title": "Irani Cafe - Magarpatta",
+          "rating": 4.1,
+          "reviews": 5668,
+          "open_state": "Open \u00b7 Closes 10:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJy04qkVDBwjsRLMPP9WeoZfk",
+          "title": "IRANI CAFE - CAMP",
+          "rating": 4.2,
+          "reviews": 4775,
+          "open_state": "Open \u00b7 Closes 12\u202fAM"
+        },
+        {
+          "place_id": "ChIJX4tdIQDBwjsRDO84hwq27ww",
+          "title": "IRANI CAFE - Koregaon Park",
+          "rating": 4,
+          "reviews": 1114,
+          "open_state": "Open \u00b7 Closes 12:30\u202fAM"
+        }
+      ]
+    },
+    {
+      "ts": "2026-10-01 11:53:53",
+      "shops": [
+        {
+          "place_id": "ChIJBTQ4K0fBwjsRdJup7GCN8Bg",
+          "title": "Irani Cafe - Viman Nagar",
+          "rating": 4.2,
+          "reviews": 8631,
+          "open_state": "Open \u00b7 Closes 11\u202fPM"
+        },
+        {
+          "place_id": "ChIJm9oN4r2_wjsRzhm9mceZnQk",
+          "title": "Irani Cafe",
+          "rating": 4.2,
+          "reviews": 7609,
+          "open_state": "Open \u00b7 Closes 12\u202fAM"
+        },
+        {
+          "place_id": "ChIJkQ47h5vBwjsROh650jXhEkk",
+          "title": "Irani Cafe - Kalyani Nagar",
+          "rating": 4.2,
+          "reviews": 7580,
+          "open_state": "Open \u00b7 Closes 11:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJ2e7ofx7BwjsRLoso6-5ufV0",
+          "title": "Irani Cafe - Magarpatta",
+          "rating": 4.1,
+          "reviews": 5668,
+          "open_state": "Open \u00b7 Closes 10:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJy04qkVDBwjsRLMPP9WeoZfk",
+          "title": "IRANI CAFE - CAMP",
+          "rating": 4.2,
+          "reviews": 4775,
+          "open_state": "Open \u00b7 Closes 12\u202fAM"
+        },
+        {
+          "place_id": "ChIJX4tdIQDBwjsRDO84hwq27ww",
+          "title": "IRANI CAFE - Koregaon Park",
+          "rating": 4,
+          "reviews": 1114,
+          "open_state": "Open \u00b7 Closes 12:30\u202fAM"
+        }
+      ]
+    },
+    {
+      "ts": "2026-10-01 11:54:25",
+      "shops": [
+        {
+          "place_id": "ChIJBTQ4K0fBwjsRdJup7GCN8Bg",
+          "title": "Irani Cafe - Viman Nagar",
+          "rating": 4.2,
+          "reviews": 8631,
+          "open_state": "Open \u00b7 Closes 11\u202fPM"
+        },
+        {
+          "place_id": "ChIJm9oN4r2_wjsRzhm9mceZnQk",
+          "title": "Irani Cafe",
+          "rating": 4.2,
+          "reviews": 7609,
+          "open_state": "Open \u00b7 Closes 12\u202fAM"
+        },
+        {
+          "place_id": "ChIJkQ47h5vBwjsROh650jXhEkk",
+          "title": "Irani Cafe - Kalyani Nagar",
+          "rating": 4.2,
+          "reviews": 7580,
+          "open_state": "Open \u00b7 Closes 11:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJ2e7ofx7BwjsRLoso6-5ufV0",
+          "title": "Irani Cafe - Magarpatta",
+          "rating": 4.1,
+          "reviews": 5668,
+          "open_state": "Open \u00b7 Closes 10:30\u202fPM"
+        },
+        {
+          "place_id": "ChIJy04qkVDBwjsRLMPP9WeoZfk",
+          "title": "IRANI CAFE - CAMP",
+          "rating": 4.2,
+          "reviews": 4775,
+          "open_state": "Open \u00b7 Closes 12\u202fAM"
+        },
+        {
+          "place_id": "ChIJX4tdIQDBwjsRDO84hwq27ww",
+          "title": "IRANI CAFE - Koregaon Park",
+          "rating": 4,
+          "reviews": 1114,
+          "open_state": "Open \u00b7 Closes 12:30\u202fAM"
+        },
+        {
+          "place_id": "ChIJU9BcLQC_wjsRgZs1BCD3Qac",
+          "title": "Irani Cafe",
+          "rating": 3.9,
+          "reviews": 2522,
+          "open_state": "Open 24 hours"
+        },
+        {
+          "place_id": "ChIJXyZL6Qy_wjsRDmwXdTmViv8",
+          "title": "Irani Cafe",
+          "rating": 3.9,
+          "reviews": 2476,
+          "open_state": "Open \u00b7 Closes 1:30\u202fAM"
+        },
+        {
+          "place_id": "ChIJHff7ywKVwjsRpOYoeJcy8F8",
+          "title": "IRANI CAFE - Sinhagad Road",
+          "rating": 4,
+          "reviews": 384,
+          "open_state": "Open \u00b7 Closes 12\u202fAM"
+        }
+      ]
+    }
+  ]
+}
