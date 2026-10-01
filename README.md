@@ -1,6 +1,3 @@
-# shop_tracker_multi_agent_graphrag
-Multi-agent GraphRAG Streamlit app that tracks shops and locations using Google Maps, Google Knowledge Graph and Google News via SerpApi. Builds a knowledge graph, shows an interactive map and tracks rating changes over time. Only a SerpApi key is needed.
-
 # 🛍️ Shop Tracker — Multi-Agent GraphRAG
 
 A Streamlit app that tracks shops and their locations using **Google Maps**, **Google Knowledge Graph** and **Google News** (via [SerpApi](https://serpapi.com)). It builds a knowledge graph from the results and answers questions with graph-based retrieval. **Only a SerpApi key is required.**
