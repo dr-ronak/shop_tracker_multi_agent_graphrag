@@ -301,6 +301,12 @@ shop-tracker-graphrag/
 ├── .env.example
 └── LICENSE
 ```
+<img width="350" height="300" alt="sapi1" src="https://github.com/user-attachments/assets/9b391aef-0457-4528-9480-9cb0949c79e0" />
+<img width="350" height="300" alt="sapi2" src="https://github.com/user-attachments/assets/c71191f1-4c99-49ba-bb97-9f6f2b5d96f5" />
+<img width="350" height="300" alt="sapi3" src="https://github.com/user-attachments/assets/ef8affc5-a2e3-446e-aab2-2404bae402f1" />
+<img width="350" height="300" alt="sapi4" src="https://github.com/user-attachments/assets/026c8970-cbd1-42f3-b38c-35438a44abae" />
+<img width="350" height="300" alt="sapi5" src="https://github.com/user-attachments/assets/30a29e8c-fd63-4996-b946-222111033b23" />
+<img width="350" height="300" alt="sapi6" src="https://github.com/user-attachments/assets/d10a9e44-d0f9-4424-92aa-0cd95d539fe7" />
 
 ---
 
